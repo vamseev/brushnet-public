@@ -1,8 +1,8 @@
 repo_name: vamseev/brushnet-public
-report_id: dced3b487e7b52c4dff694a07a6d3c20
+report_id: ff46dbbcd51df36caf192ec727b77395
 version: 0.1
 repo_type: Public
-timestamp: '2024-04-02T17:38:39+00:00'
+timestamp: '2024-04-03T12:18:11+00:00'
 requested_by: juxuan27
 provider: github
 branch: main
@@ -100,8 +100,8 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
-  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/controlnet/requirements_flax.txt
-  detection_source: examples/controlnet/requirements_flax.txt
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/research_projects/multi_token_textual_inversion/requirements_flax.txt
+  detection_source: examples/research_projects/multi_token_textual_inversion/requirements_flax.txt
   last_updated_by: juxuan27
   last_updated_on: 2024-03-12 12:21:33.000000000 Z
 - name: Ubuntu

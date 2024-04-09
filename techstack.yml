@@ -1,0 +1,160 @@
+repo_name: vamseev/brushnet-public
+report_id: 0a2128928921654fc471ef4419933ba0
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-09T18:49:55+00:00'
+requested_by: juxuan27
+provider: github
+branch: main
+detected_tools_count: 12
+tools:
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/advanced_diffusion_training/requirements.txt
+  detection_source: examples/advanced_diffusion_training/requirements.txt
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/vamseev/brushnet-public
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/vamseev/brushnet-public
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vamseev/brushnet-public
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/.github/workflows/benchmark.yml
+  detection_source: ".github/workflows/benchmark.yml"
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/.github/actions/setup-miniconda/action.yml
+  detection_source: ".github/actions/setup-miniconda/action.yml"
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/brushnet/requirements.txt
+  detection_source: examples/brushnet/requirements.txt
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/controlnet/requirements_flax.txt
+  detection_source: examples/controlnet/requirements_flax.txt
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/docker/diffusers-flax-cpu/Dockerfile
+  detection_source: docker/diffusers-flax-cpu/Dockerfile
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: ftfy
+  description: Fixes some problems with Unicode text after the fact
+  package_url: https://pypi.org/project/ftfy
+  version: 6.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20650/default_422cfa802834b2f78f74508cdc2c26b9544a79eb.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/research_projects/realfill/requirements.txt
+  detection_source: examples/controlnet/requirements.txt
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: tensorboard
+  description: TensorBoard lets you watch Tensors Flow
+  package_url: https://pypi.org/project/tensorboard
+  version: 2.14.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/research_projects/realfill/requirements.txt
+  detection_source: examples/controlnet/requirements.txt
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
+- name: torchvision
+  description: Image and video datasets and models for torch deep learning
+  package_url: https://pypi.org/project/torchvision
+  version: '0.16'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/vamseev/brushnet-public/blob/main/examples/research_projects/realfill/requirements.txt
+  detection_source: examples/controlnet/requirements.txt
+  last_updated_by: juxuan27
+  last_updated_on: 2024-03-12 12:21:33.000000000 Z
